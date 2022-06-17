@@ -237,3 +237,8 @@ img {
     color: #d3d3d3;
 }
 
+@media screen and (max-width: 1000px) {
+    .miscellaneous {
+        display: none;
+    }
+}
